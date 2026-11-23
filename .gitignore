@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+raw/
+output/*.csv
+output/*.parquet
+output/*.duckdb
